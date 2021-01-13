@@ -1,5 +1,3 @@
-package graphTheoryYoutube;
-
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Set;
@@ -66,12 +64,3 @@ public class DFSAlgorithm{
 	}
 	
 }
-//class Edge{
-//	int b,e,cost;
-//	public Edge(int b, int e, int cost) {
-//		// TODO Auto-generated constructor stub
-//		this.b=b;
-//		this.e=e;
-//		this.cost=cost;
-//	}
-//}
